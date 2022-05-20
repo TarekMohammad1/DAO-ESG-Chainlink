@@ -7,7 +7,7 @@ Decentralized autonomous organizations (DAOs) are kind of like clubs for crypto 
 
 Within C-Block Chainlink project, the DAO plays an indipensable role in creating a healthy environment for voting to different proposals including but not limited to lots proposols.
 
-In this repository, we are introducing a DAO that will be formed of auditors who are responsible to create proposals and push them for voting.
+In this repository, we are introducing a DAO that will be formed by auditors who are responsible to create proposals and push them for voting.
 
 # Usage / Implementation
 
